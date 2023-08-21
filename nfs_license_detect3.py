@@ -1,6 +1,4 @@
 '''
-SOURCE: https://towardsdatascience.com/russian-car-plate-detection-with-opencv-and-tesseractocr-dce3d3f9ff5c
-
 This code detects the lisence plate in the image and zooms 
 into the area of interest (lisense plate) and then adds the zoomed
 image into the shared directory
