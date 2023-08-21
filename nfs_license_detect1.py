@@ -1,5 +1,5 @@
 '''
-This code detects the lisence plate in the image and zooms 
+This code detects the license plate in the image and zooms 
 into the area of interest (lisense plate) and then adds the zoomed
 image into the shared directory 
 '''
