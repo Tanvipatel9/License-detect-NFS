@@ -4,7 +4,6 @@ into the area of interest (lisense plate) and then adds the zoomed
 image into the shared directory 
 '''
 
-
 import cv2
 import os 
 import time
