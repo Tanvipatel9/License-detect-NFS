@@ -30,7 +30,7 @@ USAGE:
 
 - navigate to the directory where the repository is cloned
 - change the directory paths in the code accordingly
-- run the server script followed by the client scripts
+- run the server script: nfs_lisence_plate_final.py followed by the client scripts
   
   
   
