@@ -1,7 +1,7 @@
 # License-detect-NFS
 TASK:
 -
-- A model created to showcase a practical implementation of the NFS file system
+- A demo created to showcase a practical implementation of the NFS file system
 - The main task of the model is to detect a Lisence plate and out put the plate number 
 
 REQUIREMENTS:
